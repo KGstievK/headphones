@@ -24,7 +24,7 @@ a {
 #hero {
   width: 100%px;
   height: 850px;
-  background: url(./Img/Background.png)no-repeat center/cover;
+  background: url(/Img/Background.png)no-repeat center/cover;
 }
 #header {
   padding: 15px 0;
@@ -507,7 +507,7 @@ margin: 0;
 /* FORM */
 #form {
   margin: 130px 0;
-  background: url(./Img/background-complete-3.png) no-repeat center/cover;
+  background: url(/Img/background-complete-3.png) no-repeat center/cover;
   
 }
 .form {
